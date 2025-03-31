@@ -1,11 +1,11 @@
 module github.com/ttys3/consul-slack
 
 go 1.21
-toolchain go1.23.6
+toolchain go1.24.1
 
 require (
 	github.com/bwmarrin/discordgo v0.28.1
-	github.com/hashicorp/consul/api v1.31.2
+	github.com/hashicorp/consul/api v1.32.0
 )
 
 require (
